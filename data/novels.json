@@ -1,0 +1,24 @@
+[
+    {
+        "id": "reverie-of-midnight",
+        "title": "Reverie of Midnight",
+        "author": "SilentQuill Translations",
+        "description": "A scholar discovers an ancient book that only reveals its secrets under moonlight. As reality blurs with dream, forgotten magic awakens.",
+        "status": "Ongoing",
+        "chapters": 24,
+        "rating": 4.8,
+        "genres": ["Fantasy", "Mystery", "Slice of Life"],
+        "cover": "assets/images/covers/reverie.jpg"
+    },
+    {
+        "id": "embers-of-kingdom",
+        "title": "Embers of the Old Kingdom",
+        "author": "Aurelius Vane",
+        "description": "In the ruins of a fallen empire, a scribe discovers scrolls that hold the key to forgotten magic and political intrigue.",
+        "status": "Completed",
+        "chapters": 48,
+        "rating": 4.9,
+        "genres": ["Fantasy", "Political", "Historical"],
+        "cover": "assets/images/covers/embers.jpg"
+    }
+]
